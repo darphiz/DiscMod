@@ -1,5 +1,5 @@
 # DiscMod
-Discord moderator - A bot which automatically kicks users that sends nsfw images or profanity messages.
+Discord moderator - A bot which automatically kick users that send in nsfw images or profanity messages.
 Make your discord guild a safe one for everyone by filtering out the bad eggs. As an administrator, you won't be online always to restore sanity to the guild.
 That is why need a discord BOT which automatically kicks users that go against the community standards. No Nude! No N words , No swear words, Just fun!
 ## Installation

@@ -6,9 +6,11 @@ That is why need a discord BOT which automatically kicks users that go against t
 - Fist, you have to install the dependencies by running pip install -r requirements.txt
 - Create a .env file.
 - Add the following to the .env file
-`DISCORD_TOKEN = ""
+```
+DISCORD_TOKEN = ""
 DISCORD_GUILD = ""
-API_KEY = ""`
+API_KEY = ""
+```
 - The API KEY refers to the key provided by [Deep AI](https://deepai.org/). This is required for the image recognition
 ## Usage
 You need to run the bot.py script to activate the bot. Navigate to the loaction of the bot.py file & Run this command in your terminal
